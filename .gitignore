@@ -1,5 +1,6 @@
 #data files
-images*
+For*
+CommonWordsData*
 
 # Compiled class file
 *.class
